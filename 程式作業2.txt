@@ -1,0 +1,68 @@
+p27
+       //Scanner user = new Scanner(System.in);
+        //int a =user.nextInt();
+        //if (a<1||a>3000){
+        //System.out.println("Error");}
+        //else if ((a%4 ==0&&a%100!=0)||a%400==0){
+            //System.out.println("ture");}
+        //else  { System.out.println("false");}
+
+        //int b =user.nextInt();
+        //if (b<1||b>3000){
+            //System.out.println("Error");}
+       // else if ((b%4 ==0&&b%100!=0)||b%400==0){
+           // System.out.println("ture");}
+        //else  { System.out.println("false");}
+
+        //int c =user.nextInt();
+        //if (c<1||c>3000){
+            //System.out.println("Error");}
+        //else if ((c%4 ==0&&c%100!=0)||a%400==0){
+            //System.out.println("ture");}
+        //else  { System.out.println("false");}
+
+-----------------------------------------------------
+p24
+        //Scanner user = new Scanner(System.in);
+        //int a =user.nextInt();
+        //int b =user.nextInt();
+        //int c =user.nextInt();
+        //if (a <= b && b<=c && a<=c){
+        //System.out.println("Ture");}
+        //else  { System.out.println("False");}
+
+
+----------------------------------------------------
+p15
+
+        //Scanner user = new Scanner(System.in);
+        //double kg = user.nextDouble();
+        //double pond =kg/0.454d;
+        //System.out.println(pond);
+        //double cm = user.nextDouble();
+        //double inch =cm/2.54d;
+        //System.out.println(inch);
+-------------------------------------------------
+p12
+
+        //Scanner user = new Scanner(System.in) ;
+        //int chinese =user.nextInt();
+        //int english =user.nextInt();
+        //int math =user.nextInt();
+        //System.out.println(chinese + english + math);
+        //System.out.println((chinese + english + math)/3);
+-------------------------------------------------------------
+p11
+       // Scanner user = new Scanner(System.in) ;
+        //int v1=user .nextInt();
+        //int v2=user.nextInt();
+        //System.out.println(v1+v2);
+        //System.out.println(v1-v2);
+       // System.out.println(v1*v2);
+
+--------------------------------------------------------------
+p8
+       //Scanner user=new Scanner(System.in);
+        //int c = user.nextInt();
+        //int f = (c*9)/5+32;
+       // System.out.println(f);
